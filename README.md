@@ -15,3 +15,8 @@ Jingle_bells -- alertdialog?
 sgar
 
 sugar = cookies?
+
+snow = clear sxreen?
+
+
+sorry, editing from androi pjone and can't delete
