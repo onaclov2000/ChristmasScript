@@ -18,5 +18,7 @@ sugar = cookies?
 
 snow = clear sxreen?
 
+achristmas_list -- arrays?
+
 
 sorry, editing from androi pjone and can't delete
