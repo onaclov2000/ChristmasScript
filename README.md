@@ -1,24 +1,20 @@
-ChristmasScript
-===============
+# ChristmasScript
 
-testh
+This is the spec for ChristmasScript: a festive way to write code in your
+favorite language!
 
-th
-This is the spexc forChristmasAcript a festive way to write code in your favorite lanuage
+## Proposed method aliases (WIP)
 
-Proposed
-===========
-Turkey = sleep function
+- turkey: sleep?
+- jingle_bells: alertdialog?
+- sugar: cookies?
+- snow: clear screen?
+- christmas_list: array?
 
-Jingle_bells -- alertdialog?
+## Add Your Favorite Language!
 
-sgar
-
-sugar = cookies?
-
-snow = clear sxreen?
-
-achristmas_list -- arrays?
-
-
-sorry, editing from androi pjone and can't delete
+1. fork this repo
+2. add a directory for your language
+3. add a library or header file defining the ChristmasScript aliases
+4. submit a pull request
+5. :santa:
