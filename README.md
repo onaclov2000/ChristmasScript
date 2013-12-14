@@ -1,24 +1,12 @@
-ChristmasScript
-===============
+# ChristmasScript
 
-testh
+This is the spec for ChristmasScript: a festive way to write code in your
+favorite language!
 
-th
-This is the spexc forChristmasAcript a festive way to write code in your favorite lanuage
+## Proposed method aliases (WIP)
 
-Proposed
-===========
-Turkey = sleep function
-
-Jingle_bells -- alertdialog?
-
-sgar
-
-sugar = cookies?
-
-snow = clear sxreen?
-
-achristmas_list -- arrays?
-
-
-sorry, editing from androi pjone and can't delete
+- turkey: sleep?
+- jingle_bells: alertdialog?
+- sugar: cookies?
+- snow: clear screen?
+- christmas_list: array?
