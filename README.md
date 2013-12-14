@@ -10,3 +10,11 @@ favorite language!
 - sugar: cookies?
 - snow: clear screen?
 - christmas_list: array?
+
+## Add Your Favorite Language!
+
+1. fork this repo
+2. add a directory for your language
+3. add a library or header file defining the ChristmasScript aliases
+4. submit a pull request
+5. :santa:
