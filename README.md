@@ -13,6 +13,7 @@ favorite language!
 - partridge: node?
 - pear_tree: binary tree?
 - mocking_bird: console logging?
+- coal: exception handler?
 
 Any others? Submit your ideas!
 
