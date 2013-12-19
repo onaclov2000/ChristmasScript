@@ -14,6 +14,10 @@ favorite language!
 - pear_tree: binary tree?
 - mocking_bird: console logging?
 - coal: exception handler?
+- north_pole: ?
+- rudolph: inspector of sorts?
+- gingerbread: Interface to Android?
+- mrs_clause: ?
 
 Any others? Submit your ideas!
 
