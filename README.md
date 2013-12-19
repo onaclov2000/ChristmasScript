@@ -12,6 +12,7 @@ favorite language!
 - christmas_list: array?
 - partridge: node?
 - pear_tree: binary tree?
+- mocking_bird: console logging?
 
 Any others? Submit your ideas!
 
