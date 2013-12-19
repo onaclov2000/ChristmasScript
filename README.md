@@ -14,10 +14,10 @@ favorite language!
 - pear_tree: binary tree?
 - mocking_bird: console logging?
 - coal: exception handler?
-- north_pole: ?
+- north_pole:
 - rudolph: inspector of sorts?
 - gingerbread: Interface to Android?
-- mrs_clause: ?
+- mrs_clause:
 - chimney:
 - quiet:
 - mouse:
@@ -26,6 +26,9 @@ favorite language!
 - elf:
 - christmas_tree:
 - stockings: data structure holding presents?
+- egg_nog:
+- sleigh: kill process? (run over grandma)
+- grandma: process?
 
 Any others? Submit your ideas!
 
