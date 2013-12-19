@@ -18,6 +18,11 @@ favorite language!
 - rudolph: inspector of sorts?
 - gingerbread: Interface to Android?
 - mrs_clause: ?
+- chimney:
+- quiet:
+- mouse:
+- candy_cane:
+- 
 
 Any others? Submit your ideas!
 
