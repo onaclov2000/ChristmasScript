@@ -22,7 +22,10 @@ favorite language!
 - quiet:
 - mouse:
 - candy_cane:
-- 
+- angels:
+- elf:
+- christmas_tree:
+- stockings: data structure holding presents?
 
 Any others? Submit your ideas!
 
