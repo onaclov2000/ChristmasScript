@@ -1,17 +1,20 @@
-ChristmasScript
-===============
+# ChristmasScript
 
-This is the specification for ChristmasScript a festive way to write code in your favorite language
+This is the spec for ChristmasScript: a festive way to write code in your
+favorite language!
 
-Proposed
-===========
-Turkey = sleep function
+## Proposed method aliases (WIP)
 
-Jingle_bells -- alertdialog?
+- turkey: sleep?
+- jingle_bells: alertdialog?
+- sugar: cookies?
+- snow: clear screen?
+- christmas_list: array?
 
-sugar = cookies?
+## Add Your Favorite Language!
 
-snow = clear screen?
-
-christmas_list or wish(list) -- arrays?
-
+1. fork this repo
+2. add a directory for your language
+3. add a library or header file defining the ChristmasScript aliases
+4. submit a pull request
+5. :santa:
