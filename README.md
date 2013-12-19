@@ -1,10 +1,7 @@
 ChristmasScript
 ===============
 
-testh
-
-th
-This is the spexc forChristmasAcript a festive way to write code in your favorite lanuage
+This is the specification for ChristmasScript a festive way to write code in your favorite language
 
 Proposed
 ===========
@@ -12,13 +9,9 @@ Turkey = sleep function
 
 Jingle_bells -- alertdialog?
 
-sgar
-
 sugar = cookies?
 
-snow = clear sxreen?
+snow = clear screen?
 
-achristmas_list -- arrays?
+christmas_list or wish(list) -- arrays?
 
-
-sorry, editing from androi pjone and can't delete
