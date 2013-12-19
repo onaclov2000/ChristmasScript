@@ -29,6 +29,7 @@ favorite language!
 - egg_nog:
 - sleigh: kill process? (run over grandma)
 - grandma: process?
+- five_golden_rings: network topology?
 
 Any others? Submit your ideas!
 
