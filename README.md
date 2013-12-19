@@ -10,6 +10,8 @@ favorite language!
 - sugar: cookies?
 - snow: clear screen?
 - christmas_list: array?
+- partridge: node?
+- pear_tree: binary tree?
 
 Any others? Submit your ideas!
 
