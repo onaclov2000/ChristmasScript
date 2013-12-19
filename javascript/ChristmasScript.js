@@ -6,7 +6,7 @@ var turkey = function (delay) {
       }
 
 // Don't judge : http://www.w3schools.com/js/js_popup.asp
-var jingle = function (message){
+var jingle_bells = function (message){
       window.alert(message);
       } 
 // I mean it http://www.w3schools.com/js/js_obj_array.asp
