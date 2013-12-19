@@ -11,6 +11,8 @@ favorite language!
 - snow: clear screen?
 - christmas_list: array?
 
+Any others? Submit your ideas!
+
 ## Add Your Favorite Language!
 
 1. fork this repo
